@@ -1,1 +1,2 @@
-# GROUPE_S
+# project-addons
+
